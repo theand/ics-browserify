@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "clean_logs": "^1.0.15",
     "generate-calendar-url": "^1.0.0",
     "ics": "^2.8.0"
   },
